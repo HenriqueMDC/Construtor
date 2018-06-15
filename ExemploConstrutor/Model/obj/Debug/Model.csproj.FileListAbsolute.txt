@@ -1,0 +1,5 @@
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\Model\bin\Debug\Model.dll
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\Model\bin\Debug\Model.pdb
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\Model\obj\Debug\Model.dll
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\Model\obj\Debug\Model.pdb

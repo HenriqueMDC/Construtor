@@ -1,0 +1,11 @@
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\bin\Debug\WFA.exe.config
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\bin\Debug\WFA.exe
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\bin\Debug\WFA.pdb
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\bin\Debug\Model.dll
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\bin\Debug\Model.pdb
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.csprojResolveAssemblyReference.cache
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.Form1.resources
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.Properties.Resources.resources
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.csproj.GenerateResource.Cache
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.exe
+C:\Users\104963\Documents\Visual Studio 2013\Projects\ExemploConstrutor\WFA\obj\Debug\WFA.pdb
